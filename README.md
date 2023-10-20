@@ -2,6 +2,8 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/test-vite-project/
 
+#### `Youtube:` [Как исправить абсолютные ссылки при сборке Vite + React](https://youtube.com/shorts/QBFo4kerYEU)
+
 ---
 
 #### `git clone https://github.com/DmitriyShkredov/test-vite-project.git`
